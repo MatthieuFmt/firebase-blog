@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firebase-blog/static/css/main.c0628479.chunk.css",
+    "main.js": "/firebase-blog/static/js/main.fbe13a1f.chunk.js",
+    "main.js.map": "/firebase-blog/static/js/main.fbe13a1f.chunk.js.map",
+    "runtime-main.js": "/firebase-blog/static/js/runtime-main.e9209989.js",
+    "runtime-main.js.map": "/firebase-blog/static/js/runtime-main.e9209989.js.map",
+    "static/js/2.5e281fde.chunk.js": "/firebase-blog/static/js/2.5e281fde.chunk.js",
+    "static/js/2.5e281fde.chunk.js.map": "/firebase-blog/static/js/2.5e281fde.chunk.js.map",
+    "index.html": "/firebase-blog/index.html",
+    "static/css/main.c0628479.chunk.css.map": "/firebase-blog/static/css/main.c0628479.chunk.css.map",
+    "static/js/2.5e281fde.chunk.js.LICENSE.txt": "/firebase-blog/static/js/2.5e281fde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9209989.js",
+    "static/js/2.5e281fde.chunk.js",
+    "static/css/main.c0628479.chunk.css",
+    "static/js/main.fbe13a1f.chunk.js"
+  ]
+}
